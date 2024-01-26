@@ -1,4 +1,4 @@
 - 👋 Hello there my name is Quinton LeBlanc, I am very interested in football and play competitive rep football for the Hamiltion JR Tigercats
 - I am a new coder learning how to make HTML websites, Python games, also some unity games!
-- Some projects I have worked on are the Pin Code, Beat the Zombie, and the Calculator.
+- Some projects I have worked on are the Pin Code, About me, and the Calculator.
 - I want to learn how to make better unity games with more advanced game functions
